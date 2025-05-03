@@ -19,8 +19,7 @@
   <a href="https://github.com/FavourEffiong?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FavourEffiong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<!-- Profile Views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FavourEffiong&style=for-the-badge&color=0a2647"> </p> -->
+
 
 <!-- ## 🌐 Socials: 
 <div align="center">
