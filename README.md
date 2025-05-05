@@ -13,12 +13,7 @@
 - 🌱 🌱 Currently learning and growing in Software Engineering and Web Development.
 - 💞️ Open to collaborating on Web Development, JavaScript, Python, Typescript, PHP, or any Software Development Project.
 
-<!-- <p align="center"> 
-  <a href="https://github.com/FavourEffiong?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FavourEffiong?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
-  <a href="https://github.com/FavourEffiong?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FavourEffiong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+
 
 
 ## 🌐 Socials: 
