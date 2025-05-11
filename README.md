@@ -44,26 +44,12 @@
 </div>
 
 
-
-<!-- # 👨‍💻LOC:
-<img src="assets/light.gif">
-<div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/FavourEffiong/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</div> -->
-
-<!-- # 📈 Productivity Stats:
-<table align="center">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FavourEffiong&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-  </tr> 
-</table> -->
-
 <img src="assets/light.gif"> 
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FavourEffiong&theme=discord&no-frame=false&no-bg=false&margin-w=4">
-</div> -->
+</div>
 
 <br>
 
