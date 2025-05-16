@@ -10,7 +10,7 @@
 </h3>
 
 - 👋 Hi, I’m Favour Effiong, an aspiring Full Stack Web Developer with a passion for creating impactful, user-centric digital solutions.
-- 🌱 🌱 Currently learning and growing in Software Engineering and Web Development.
+- 🌱  Currently learning and growing in Software Engineering and Web Development.
 - 💞️ Open to collaborating on Web Development, JavaScript, Python, Typescript, PHP, or any Software Development Project.
 
 
